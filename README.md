@@ -7,6 +7,15 @@
 <LI>Live Server (VS Code extension) </LI>
 </UL>
 
+## Starter files
+
+<UL>
+<LI>1. Tags - https://drive.google.com/file/d/1fL3kmg8HqoC-sqr5lJGKwoKfF4cyZKnK/view?usp=share_link</LI>
+<LI>2. Divs - https://drive.google.com/file/d/1rCycvt5fqC_fpUlFdxjCkJDD05v89Ukp/view?usp=share_link</LI>
+</UL>
+
+
+
 ## Tools
 
 <UL>
