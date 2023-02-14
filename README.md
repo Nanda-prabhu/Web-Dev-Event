@@ -22,7 +22,7 @@
 <UL>
 <LI>Box model visualizer - https://codepen.io/amctagg1/pen/zRwPVx</LI>
 <LI>Display Flex - https://flexboxfroggy.com/</LI>
-<LI></LI>
+<LI>Display Grid - https://cssgridgarden.com/</LI>
 </UL>
 
 
