@@ -17,7 +17,7 @@
 </UL>
 
 
-## Intreactive Tools
+## Interactive Tools
 
 <UL>
 <LI>Box model visualizer - https://codepen.io/amctagg1/pen/zRwPVx</LI>
