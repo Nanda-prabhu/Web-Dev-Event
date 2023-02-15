@@ -14,7 +14,15 @@
 <LI>2. Divs - https://drive.google.com/file/d/1rCycvt5fqC_fpUlFdxjCkJDD05v89Ukp/view?usp=share_link</LI>
 </UL>
 
+## Add new features
 
+<UL>
+<LI>New color theme</LI>
+<LI>New images</LI>
+<LI>Add projects section</LI>
+<LI>Add testimonials</LI>
+
+</UL>
 
 ## Tools
 
